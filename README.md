@@ -1,5 +1,5 @@
-# Livro de Receitas :chef
+# Livro de Receitas 👨🏻‍🍳
 
-Olá! Bem vindo ao livro de receitas :wave
+Olá! Bem vindo ao livro de receitas 👋
 
 - Strogonoff de Frango
